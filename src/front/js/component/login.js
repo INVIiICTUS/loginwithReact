@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 
 export const Login = () => {
   return (
-    <div className="container-fluid ">
+    <div className="container d-flex justify-content-center ">
       <div className="form">
         <div className="input-container ">
           <label>E-mail </label>
